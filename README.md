@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to train a semantic segmentation model using YOLOv8. It includes data annotation guidelines, model training instructions for both local and Google Colab environments, and a model validation process.
+This project successfully trains a semantic segmentation model using YOLOv8. It covers comprehensive data annotation guidelines, streamlined model training steps, and an efficient model validation process.
 
 ## Dataset
 
